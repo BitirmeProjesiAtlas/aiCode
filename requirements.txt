@@ -1,9 +1,10 @@
-
+-------------------------------------
 cmd(22.11.2024)
 
 python -m venv VirtualEnv
 .\VirtualEnv\Scripts\activate  
 pip install opencv-python
 pip install torch  
+-------------------------------------
 
 
