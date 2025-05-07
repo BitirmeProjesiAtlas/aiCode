@@ -1,0 +1,3 @@
+logs : pekiştirmeli model eğitim sonuclarının kaydedildği chechpoint dosyası boyutu büyük olduğundan github'a yüklenenemiştir,
+runs : yolo-obb modelinin eğitim sonuclarının kaydedildği  dosyasıdır boyutu büyük olduğundan github'a yüklenenemiştir
+data: yolo-obb 'nin nesne etiketlemesi yapmak için label img benzeri robofollow kullandık onun verdiği çıktı dosyaları yolo-obb eğitimi için gerekli olan dosyalardır boyutu büyük olduğundan github'a yüklenenemiştir
