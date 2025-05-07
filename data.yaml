@@ -1,0 +1,5 @@
+train: C:/Users/Samet/Desktop/yolov11/data_obb
+val: C:/Users/Samet/Desktop/yolov11/data_obb
+
+nc: 6  # Sınıf sayısı (classes.txt'deki toplam sınıf sayısı)
+names: ['finish_line', 'floor_trap', 'laser', 'main_char', 'spinner', 'wall']  # Sınıf isimleri
